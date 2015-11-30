@@ -42,12 +42,12 @@ public class KMeansAlgorithm {
 		}
 		clusters = new ArrayList<KMeans_Cluster>();
 		int count = 0;
-		int index = 0;
+//		int index = 0;
 		for(Pair<Double, Double> point : record.keySet()){
-			index++;
-			if(index / 3 == 0){
-				continue;
-			}
+//			index++;
+//			if(index / 3 == 0){
+//				continue;
+//			}
 			Pair<Double, Double> centroid = new Pair<Double, Double>(point.left, point.right);
 			clusters.add(new KMeans_Cluster(centroid));
 			count++;
