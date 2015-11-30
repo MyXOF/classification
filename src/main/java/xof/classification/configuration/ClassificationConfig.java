@@ -13,6 +13,9 @@ public class ClassificationConfig {
 
 	public String KMeans_Set;
 	public String KMeans_ResultPath;
+	
+	public String DBScan_Eps;
+	public String DBScan_MinPts;
 	public String DBScan_ResultPath;
 	public String DATA_PATH;
 	
@@ -32,6 +35,8 @@ public class ClassificationConfig {
 			prop.load(in);
 			KMeans_Set = prop.getProperty("kmeans_set");
 			KMeans_ResultPath = prop.getProperty("kmeans_resultpath");
+			DBScan_Eps = prop.getProperty("dbscan_eps");
+			DBScan_MinPts = prop.getProperty("dbscan_minpts");
 			DBScan_ResultPath = prop.getProperty("dbscan_resultpath");
 			DATA_PATH = prop.getProperty("data_path");
 			in.close();

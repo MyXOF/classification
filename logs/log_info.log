@@ -182,3 +182,189 @@ INFO  [2015-11-30 21:14:18,434] xof.classification.kmeans.KMeansAlgorithm:147 - 
 INFO  [2015-11-30 21:14:18,449] xof.classification.kmeans.KMeansAlgorithm:148 - KMeansAlgorithm: f_score list is [<2226,1.0>, <843,0.5202576355703304>, <46,0.5966225467822912>, <11543,0.45045393084798147>, <209,1.0>, <843,0.7867120954003407>, <11543,0.49951219512195116>, <2333,0.2188191881918819>, <74683,0.8012961462793659>, <2333,0.3254119687771032>, <2501,1.0>, <2333,0.2834281650071124>, <2333,0.6822276822276823>, <13556,1.0>, <46,0.09852631578947367>, <74683,0.49796983758700697>, <93036,1.0>] 
 INFO  [2015-11-30 21:14:18,717] xof.classification.kmeans.KMeansAlgorithm:147 - KMeansAlgorithm: purity is 0.8899534629071996 
 INFO  [2015-11-30 21:14:18,717] xof.classification.kmeans.KMeansAlgorithm:148 - KMeansAlgorithm: f_score list is [<2226,1.0>, <843,0.4395267309377739>, <861,0.295539033457249>, <11543,0.4199004975124378>, <209,1.0>, <843,0.6382409177820267>, <861,0.19710569701410516>, <2333,0.2188191881918819>, <74683,0.8012961462793659>, <2333,0.3254119687771032>, <2501,1.0>, <2333,0.2834281650071124>, <2333,0.6822276822276823>, <13556,1.0>, <46,0.09863013698630137>, <74683,0.49796983758700697>, <93036,1.0>, <11543,0.522061549870226>, <46,0.6271850831655895>, <843,0.3995505617977528>] 
+INFO  [2015-11-30 22:03:37,153] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4557 points 
+INFO  [2015-11-30 22:03:37,313] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4557 points 
+INFO  [2015-11-30 22:03:37,631] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4557 points 
+INFO  [2015-11-30 22:03:46,040] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 3561 points 
+INFO  [2015-11-30 22:03:46,484] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 3561 points 
+INFO  [2015-11-30 22:03:46,531] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 3561 points 
+INFO  [2015-11-30 22:04:42,226] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 11814 points 
+INFO  [2015-11-30 22:04:44,074] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 11814 points 
+INFO  [2015-11-30 22:04:45,796] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 11814 points 
+INFO  [2015-11-30 22:04:54,245] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4241 points 
+INFO  [2015-11-30 22:04:55,743] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4241 points 
+INFO  [2015-11-30 22:04:57,765] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4241 points 
+INFO  [2015-11-30 22:05:07,429] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4827 points 
+INFO  [2015-11-30 22:05:09,211] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4827 points 
+INFO  [2015-11-30 22:05:12,089] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4827 points 
+INFO  [2015-11-30 22:05:22,987] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 5179 points 
+INFO  [2015-11-30 22:05:24,714] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 5179 points 
+INFO  [2015-11-30 22:05:28,042] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 5179 points 
+INFO  [2015-11-30 22:05:31,528] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 3558 points 
+INFO  [2015-11-30 22:05:33,062] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 3558 points 
+INFO  [2015-11-30 22:05:35,322] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 2011 points 
+INFO  [2015-11-30 22:05:36,942] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 2011 points 
+INFO  [2015-11-30 22:05:37,048] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 3558 points 
+INFO  [2015-11-30 22:05:41,255] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 2011 points 
+INFO  [2015-11-30 22:05:45,690] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4088 points 
+INFO  [2015-11-30 22:05:45,698] xof.classification.dbscan.DBScanAlgorithm:63 - It costs 138521 ms 
+INFO  [2015-11-30 22:05:45,705] xof.classification.dbscan.DBScanAlgorithm:70 - count is 43836 
+INFO  [2015-11-30 22:05:45,708] xof.classification.dbscan.DBScanAlgorithm:95 - {2226=4557} 
+INFO  [2015-11-30 22:05:45,712] xof.classification.dbscan.DBScanAlgorithm:95 - {843=3561} 
+INFO  [2015-11-30 22:05:45,717] xof.classification.dbscan.DBScanAlgorithm:95 - {11543=3419, 861=4205, 46=4190} 
+INFO  [2015-11-30 22:05:45,720] xof.classification.dbscan.DBScanAlgorithm:95 - {209=4241} 
+INFO  [2015-11-30 22:05:45,734] xof.classification.dbscan.DBScanAlgorithm:95 - {2333=4827} 
+INFO  [2015-11-30 22:05:45,737] xof.classification.dbscan.DBScanAlgorithm:95 - {74683=5179} 
+INFO  [2015-11-30 22:05:45,738] xof.classification.dbscan.DBScanAlgorithm:95 - {2501=3558} 
+INFO  [2015-11-30 22:05:45,740] xof.classification.dbscan.DBScanAlgorithm:95 - {13556=2011} 
+INFO  [2015-11-30 22:05:45,742] xof.classification.dbscan.DBScanAlgorithm:95 - {93036=4088} 
+INFO  [2015-11-30 22:05:45,742] xof.classification.dbscan.DBScanAlgorithm:110 - DBScanAlgorithm: purity is 0.8264212063144447 
+INFO  [2015-11-30 22:05:45,743] xof.classification.dbscan.DBScanAlgorithm:111 - DBScanAlgorithm: f_score list is [<2226,1.0>, <843,1.0>, <861,0.5250015606467321>, <209,1.0>, <2333,1.0>, <74683,1.0>, <2501,1.0>, <13556,1.0>, <93036,1.0>] 
+INFO  [2015-11-30 22:05:47,194] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4088 points 
+INFO  [2015-11-30 22:05:47,198] xof.classification.dbscan.DBScanAlgorithm:63 - It costs 140030 ms 
+INFO  [2015-11-30 22:05:47,202] xof.classification.dbscan.DBScanAlgorithm:70 - count is 43836 
+INFO  [2015-11-30 22:05:47,204] xof.classification.dbscan.DBScanAlgorithm:95 - {2226=4557} 
+INFO  [2015-11-30 22:05:47,206] xof.classification.dbscan.DBScanAlgorithm:95 - {843=3561} 
+INFO  [2015-11-30 22:05:47,211] xof.classification.dbscan.DBScanAlgorithm:95 - {11543=3419, 861=4205, 46=4190} 
+INFO  [2015-11-30 22:05:47,213] xof.classification.dbscan.DBScanAlgorithm:95 - {209=4241} 
+INFO  [2015-11-30 22:05:47,215] xof.classification.dbscan.DBScanAlgorithm:95 - {2333=4827} 
+INFO  [2015-11-30 22:05:47,217] xof.classification.dbscan.DBScanAlgorithm:95 - {74683=5179} 
+INFO  [2015-11-30 22:05:47,225] xof.classification.dbscan.DBScanAlgorithm:95 - {2501=3558} 
+INFO  [2015-11-30 22:05:47,226] xof.classification.dbscan.DBScanAlgorithm:95 - {13556=2011} 
+INFO  [2015-11-30 22:05:47,228] xof.classification.dbscan.DBScanAlgorithm:95 - {93036=4088} 
+INFO  [2015-11-30 22:05:47,228] xof.classification.dbscan.DBScanAlgorithm:110 - DBScanAlgorithm: purity is 0.8264212063144447 
+INFO  [2015-11-30 22:05:47,229] xof.classification.dbscan.DBScanAlgorithm:111 - DBScanAlgorithm: f_score list is [<2226,1.0>, <843,1.0>, <861,0.5250015606467321>, <209,1.0>, <2333,1.0>, <74683,1.0>, <2501,1.0>, <13556,1.0>, <93036,1.0>] 
+INFO  [2015-11-30 22:05:50,294] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4088 points 
+INFO  [2015-11-30 22:05:50,296] xof.classification.dbscan.DBScanAlgorithm:63 - It costs 143126 ms 
+INFO  [2015-11-30 22:05:50,297] xof.classification.dbscan.DBScanAlgorithm:70 - count is 43836 
+INFO  [2015-11-30 22:05:50,298] xof.classification.dbscan.DBScanAlgorithm:95 - {2226=4557} 
+INFO  [2015-11-30 22:05:50,299] xof.classification.dbscan.DBScanAlgorithm:95 - {843=3561} 
+INFO  [2015-11-30 22:05:50,300] xof.classification.dbscan.DBScanAlgorithm:95 - {11543=3419, 861=4205, 46=4190} 
+INFO  [2015-11-30 22:05:50,303] xof.classification.dbscan.DBScanAlgorithm:95 - {209=4241} 
+INFO  [2015-11-30 22:05:50,304] xof.classification.dbscan.DBScanAlgorithm:95 - {2333=4827} 
+INFO  [2015-11-30 22:05:50,305] xof.classification.dbscan.DBScanAlgorithm:95 - {74683=5179} 
+INFO  [2015-11-30 22:05:50,306] xof.classification.dbscan.DBScanAlgorithm:95 - {2501=3558} 
+INFO  [2015-11-30 22:05:50,307] xof.classification.dbscan.DBScanAlgorithm:95 - {13556=2011} 
+INFO  [2015-11-30 22:05:50,312] xof.classification.dbscan.DBScanAlgorithm:95 - {93036=4088} 
+INFO  [2015-11-30 22:05:50,313] xof.classification.dbscan.DBScanAlgorithm:110 - DBScanAlgorithm: purity is 0.8264212063144447 
+INFO  [2015-11-30 22:05:50,313] xof.classification.dbscan.DBScanAlgorithm:111 - DBScanAlgorithm: f_score list is [<2226,1.0>, <843,1.0>, <861,0.5250015606467321>, <209,1.0>, <2333,1.0>, <74683,1.0>, <2501,1.0>, <13556,1.0>, <93036,1.0>] 
+INFO  [2015-11-30 22:06:02,189] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4557 points 
+INFO  [2015-11-30 22:06:04,288] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4557 points 
+INFO  [2015-11-30 22:06:04,655] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4557 points 
+INFO  [2015-11-30 22:06:13,189] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 3561 points 
+INFO  [2015-11-30 22:06:14,675] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 3561 points 
+INFO  [2015-11-30 22:06:15,732] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 3561 points 
+INFO  [2015-11-30 22:07:27,393] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 13825 points 
+INFO  [2015-11-30 22:07:28,655] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 13825 points 
+INFO  [2015-11-30 22:07:31,931] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 13825 points 
+INFO  [2015-11-30 22:07:41,017] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4241 points 
+INFO  [2015-11-30 22:07:42,088] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4241 points 
+INFO  [2015-11-30 22:07:45,739] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4241 points 
+INFO  [2015-11-30 22:07:57,224] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4827 points 
+INFO  [2015-11-30 22:07:58,311] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4827 points 
+INFO  [2015-11-30 22:08:03,119] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4827 points 
+INFO  [2015-11-30 22:08:15,165] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 5179 points 
+INFO  [2015-11-30 22:08:16,060] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 5179 points 
+INFO  [2015-11-30 22:08:22,033] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 5179 points 
+INFO  [2015-11-30 22:08:25,790] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 3558 points 
+INFO  [2015-11-30 22:08:26,489] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 3558 points 
+INFO  [2015-11-30 22:08:32,928] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 3558 points 
+INFO  [2015-11-30 22:08:38,164] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4088 points 
+INFO  [2015-11-30 22:08:38,166] xof.classification.dbscan.DBScanAlgorithm:63 - It costs 167844 ms 
+INFO  [2015-11-30 22:08:38,168] xof.classification.dbscan.DBScanAlgorithm:70 - count is 43836 
+INFO  [2015-11-30 22:08:38,170] xof.classification.dbscan.DBScanAlgorithm:95 - {2226=4557} 
+INFO  [2015-11-30 22:08:38,171] xof.classification.dbscan.DBScanAlgorithm:95 - {843=3561} 
+INFO  [2015-11-30 22:08:38,176] xof.classification.dbscan.DBScanAlgorithm:95 - {13556=2011, 11543=3419, 861=4205, 46=4190} 
+INFO  [2015-11-30 22:08:38,177] xof.classification.dbscan.DBScanAlgorithm:95 - {209=4241} 
+INFO  [2015-11-30 22:08:38,179] xof.classification.dbscan.DBScanAlgorithm:95 - {2333=4827} 
+INFO  [2015-11-30 22:08:38,189] xof.classification.dbscan.DBScanAlgorithm:95 - {74683=5179} 
+INFO  [2015-11-30 22:08:38,190] xof.classification.dbscan.DBScanAlgorithm:95 - {2501=3558} 
+INFO  [2015-11-30 22:08:38,195] xof.classification.dbscan.DBScanAlgorithm:95 - {93036=4088} 
+INFO  [2015-11-30 22:08:38,196] xof.classification.dbscan.DBScanAlgorithm:110 - DBScanAlgorithm: purity is 0.7805456702253856 
+INFO  [2015-11-30 22:08:38,197] xof.classification.dbscan.DBScanAlgorithm:111 - DBScanAlgorithm: f_score list is [<2226,1.0>, <843,1.0>, <861,0.466444814198558>, <209,1.0>, <2333,1.0>, <74683,1.0>, <2501,1.0>, <93036,1.0>] 
+INFO  [2015-11-30 22:08:38,625] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4088 points 
+INFO  [2015-11-30 22:08:38,626] xof.classification.dbscan.DBScanAlgorithm:63 - It costs 168305 ms 
+INFO  [2015-11-30 22:08:38,627] xof.classification.dbscan.DBScanAlgorithm:70 - count is 43836 
+INFO  [2015-11-30 22:08:38,628] xof.classification.dbscan.DBScanAlgorithm:95 - {2226=4557} 
+INFO  [2015-11-30 22:08:38,628] xof.classification.dbscan.DBScanAlgorithm:95 - {843=3561} 
+INFO  [2015-11-30 22:08:38,630] xof.classification.dbscan.DBScanAlgorithm:95 - {13556=2011, 11543=3419, 861=4205, 46=4190} 
+INFO  [2015-11-30 22:08:38,631] xof.classification.dbscan.DBScanAlgorithm:95 - {209=4241} 
+INFO  [2015-11-30 22:08:38,632] xof.classification.dbscan.DBScanAlgorithm:95 - {2333=4827} 
+INFO  [2015-11-30 22:08:38,633] xof.classification.dbscan.DBScanAlgorithm:95 - {74683=5179} 
+INFO  [2015-11-30 22:08:38,633] xof.classification.dbscan.DBScanAlgorithm:95 - {2501=3558} 
+INFO  [2015-11-30 22:08:38,634] xof.classification.dbscan.DBScanAlgorithm:95 - {93036=4088} 
+INFO  [2015-11-30 22:08:38,640] xof.classification.dbscan.DBScanAlgorithm:110 - DBScanAlgorithm: purity is 0.7805456702253856 
+INFO  [2015-11-30 22:08:38,641] xof.classification.dbscan.DBScanAlgorithm:111 - DBScanAlgorithm: f_score list is [<2226,1.0>, <843,1.0>, <861,0.466444814198558>, <209,1.0>, <2333,1.0>, <74683,1.0>, <2501,1.0>, <93036,1.0>] 
+INFO  [2015-11-30 22:08:42,925] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4088 points 
+INFO  [2015-11-30 22:08:42,926] xof.classification.dbscan.DBScanAlgorithm:63 - It costs 172600 ms 
+INFO  [2015-11-30 22:08:42,927] xof.classification.dbscan.DBScanAlgorithm:70 - count is 43836 
+INFO  [2015-11-30 22:08:42,928] xof.classification.dbscan.DBScanAlgorithm:95 - {2226=4557} 
+INFO  [2015-11-30 22:08:42,928] xof.classification.dbscan.DBScanAlgorithm:95 - {843=3561} 
+INFO  [2015-11-30 22:08:42,930] xof.classification.dbscan.DBScanAlgorithm:95 - {13556=2011, 11543=3419, 861=4205, 46=4190} 
+INFO  [2015-11-30 22:08:42,930] xof.classification.dbscan.DBScanAlgorithm:95 - {209=4241} 
+INFO  [2015-11-30 22:08:42,931] xof.classification.dbscan.DBScanAlgorithm:95 - {2333=4827} 
+INFO  [2015-11-30 22:08:42,931] xof.classification.dbscan.DBScanAlgorithm:95 - {74683=5179} 
+INFO  [2015-11-30 22:08:42,932] xof.classification.dbscan.DBScanAlgorithm:95 - {2501=3558} 
+INFO  [2015-11-30 22:08:42,932] xof.classification.dbscan.DBScanAlgorithm:95 - {93036=4088} 
+INFO  [2015-11-30 22:08:42,933] xof.classification.dbscan.DBScanAlgorithm:110 - DBScanAlgorithm: purity is 0.7805456702253856 
+INFO  [2015-11-30 22:08:42,933] xof.classification.dbscan.DBScanAlgorithm:111 - DBScanAlgorithm: f_score list is [<2226,1.0>, <843,1.0>, <861,0.466444814198558>, <209,1.0>, <2333,1.0>, <74683,1.0>, <2501,1.0>, <93036,1.0>] 
+INFO  [2015-11-30 22:08:53,363] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4557 points 
+INFO  [2015-11-30 22:08:54,205] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4557 points 
+INFO  [2015-11-30 22:08:55,717] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4557 points 
+INFO  [2015-11-30 22:09:03,246] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 3561 points 
+INFO  [2015-11-30 22:09:04,332] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 3561 points 
+INFO  [2015-11-30 22:09:05,792] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 3561 points 
+INFO  [2015-11-30 22:10:15,028] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 13825 points 
+INFO  [2015-11-30 22:10:17,624] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 13825 points 
+INFO  [2015-11-30 22:10:19,099] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 13825 points 
+INFO  [2015-11-30 22:10:27,985] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4241 points 
+INFO  [2015-11-30 22:10:30,630] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4241 points 
+INFO  [2015-11-30 22:10:32,199] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4241 points 
+INFO  [2015-11-30 22:10:43,848] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4827 points 
+INFO  [2015-11-30 22:10:46,714] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4827 points 
+INFO  [2015-11-30 22:10:48,358] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4827 points 
+INFO  [2015-11-30 22:11:01,574] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 5179 points 
+INFO  [2015-11-30 22:11:05,040] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 5179 points 
+INFO  [2015-11-30 22:11:06,940] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 5179 points 
+INFO  [2015-11-30 22:11:11,931] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 3558 points 
+INFO  [2015-11-30 22:11:15,712] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 3558 points 
+INFO  [2015-11-30 22:11:17,489] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 3558 points 
+INFO  [2015-11-30 22:11:24,286] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4088 points 
+INFO  [2015-11-30 22:11:24,286] xof.classification.dbscan.DBScanAlgorithm:63 - It costs 161350 ms 
+INFO  [2015-11-30 22:11:24,287] xof.classification.dbscan.DBScanAlgorithm:70 - count is 43836 
+INFO  [2015-11-30 22:11:24,288] xof.classification.dbscan.DBScanAlgorithm:95 - {2226=4557} 
+INFO  [2015-11-30 22:11:24,289] xof.classification.dbscan.DBScanAlgorithm:95 - {843=3561} 
+INFO  [2015-11-30 22:11:24,291] xof.classification.dbscan.DBScanAlgorithm:95 - {13556=2011, 11543=3419, 861=4205, 46=4190} 
+INFO  [2015-11-30 22:11:24,292] xof.classification.dbscan.DBScanAlgorithm:95 - {209=4241} 
+INFO  [2015-11-30 22:11:24,293] xof.classification.dbscan.DBScanAlgorithm:95 - {2333=4827} 
+INFO  [2015-11-30 22:11:24,294] xof.classification.dbscan.DBScanAlgorithm:95 - {74683=5179} 
+INFO  [2015-11-30 22:11:24,295] xof.classification.dbscan.DBScanAlgorithm:95 - {2501=3558} 
+INFO  [2015-11-30 22:11:24,296] xof.classification.dbscan.DBScanAlgorithm:95 - {93036=4088} 
+INFO  [2015-11-30 22:11:24,296] xof.classification.dbscan.DBScanAlgorithm:110 - DBScanAlgorithm: purity is 0.7805456702253856 
+INFO  [2015-11-30 22:11:24,306] xof.classification.dbscan.DBScanAlgorithm:111 - DBScanAlgorithm: f_score list is [<2226,1.0>, <843,1.0>, <861,0.466444814198558>, <209,1.0>, <2333,1.0>, <74683,1.0>, <2501,1.0>, <93036,1.0>] 
+INFO  [2015-11-30 22:11:27,379] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4088 points 
+INFO  [2015-11-30 22:11:27,380] xof.classification.dbscan.DBScanAlgorithm:63 - It costs 164444 ms 
+INFO  [2015-11-30 22:11:27,381] xof.classification.dbscan.DBScanAlgorithm:70 - count is 43836 
+INFO  [2015-11-30 22:11:27,382] xof.classification.dbscan.DBScanAlgorithm:95 - {2226=4557} 
+INFO  [2015-11-30 22:11:27,383] xof.classification.dbscan.DBScanAlgorithm:95 - {843=3561} 
+INFO  [2015-11-30 22:11:27,385] xof.classification.dbscan.DBScanAlgorithm:95 - {13556=2011, 11543=3419, 861=4205, 46=4190} 
+INFO  [2015-11-30 22:11:27,386] xof.classification.dbscan.DBScanAlgorithm:95 - {209=4241} 
+INFO  [2015-11-30 22:11:27,387] xof.classification.dbscan.DBScanAlgorithm:95 - {2333=4827} 
+INFO  [2015-11-30 22:11:27,388] xof.classification.dbscan.DBScanAlgorithm:95 - {74683=5179} 
+INFO  [2015-11-30 22:11:27,389] xof.classification.dbscan.DBScanAlgorithm:95 - {2501=3558} 
+INFO  [2015-11-30 22:11:27,390] xof.classification.dbscan.DBScanAlgorithm:95 - {93036=4088} 
+INFO  [2015-11-30 22:11:27,390] xof.classification.dbscan.DBScanAlgorithm:110 - DBScanAlgorithm: purity is 0.7805456702253856 
+INFO  [2015-11-30 22:11:27,390] xof.classification.dbscan.DBScanAlgorithm:111 - DBScanAlgorithm: f_score list is [<2226,1.0>, <843,1.0>, <861,0.466444814198558>, <209,1.0>, <2333,1.0>, <74683,1.0>, <2501,1.0>, <93036,1.0>] 
+INFO  [2015-11-30 22:11:28,499] xof.classification.dbscan.DBScanAlgorithm:144 - DBScanAlgorithm: upadate 4088 points 
+INFO  [2015-11-30 22:11:28,500] xof.classification.dbscan.DBScanAlgorithm:63 - It costs 165564 ms 
+INFO  [2015-11-30 22:11:28,507] xof.classification.dbscan.DBScanAlgorithm:70 - count is 43836 
+INFO  [2015-11-30 22:11:28,508] xof.classification.dbscan.DBScanAlgorithm:95 - {2226=4557} 
+INFO  [2015-11-30 22:11:28,509] xof.classification.dbscan.DBScanAlgorithm:95 - {843=3561} 
+INFO  [2015-11-30 22:11:28,510] xof.classification.dbscan.DBScanAlgorithm:95 - {13556=2011, 11543=3419, 861=4205, 46=4190} 
+INFO  [2015-11-30 22:11:28,510] xof.classification.dbscan.DBScanAlgorithm:95 - {209=4241} 
+INFO  [2015-11-30 22:11:28,511] xof.classification.dbscan.DBScanAlgorithm:95 - {2333=4827} 
+INFO  [2015-11-30 22:11:28,511] xof.classification.dbscan.DBScanAlgorithm:95 - {74683=5179} 
+INFO  [2015-11-30 22:11:28,511] xof.classification.dbscan.DBScanAlgorithm:95 - {2501=3558} 
+INFO  [2015-11-30 22:11:28,512] xof.classification.dbscan.DBScanAlgorithm:95 - {93036=4088} 
+INFO  [2015-11-30 22:11:28,512] xof.classification.dbscan.DBScanAlgorithm:110 - DBScanAlgorithm: purity is 0.7805456702253856 
+INFO  [2015-11-30 22:11:28,512] xof.classification.dbscan.DBScanAlgorithm:111 - DBScanAlgorithm: f_score list is [<2226,1.0>, <843,1.0>, <861,0.466444814198558>, <209,1.0>, <2333,1.0>, <74683,1.0>, <2501,1.0>, <93036,1.0>] 
