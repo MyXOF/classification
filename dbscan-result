@@ -1,0 +1,321 @@
+Eps = 0.01 MinPts = 100 It costs 49834ms
+purity = 0.6347522584177389
+F-score: 
+	label: 2226			f-score: 0.890836071558963
+	label: 46			f-score: 0.5267545038988974
+	label: 74683			f-score: 0.9037993438459097
+	label: 2501			f-score: 0.7977698935631019
+	label: 13556			f-score: 0.5857946554149086
+	label: 93036			f-score: 0.8730530668504479
+	label: 209			f-score: 0.9031423768265873
+	label: 2333			f-score: 0.8530355233456101
+	label: 843			f-score: 0.7961460446247464
+	label: 2501			f-score: 0.0957987690660958
+
+Eps = 0.02 MinPts = 100 It costs 68679ms
+purity = 0.7583949265443928
+F-score: 
+	label: 2226			f-score: 0.9828125
+	label: 46			f-score: 0.5268986346190146
+	label: 2333			f-score: 0.9828258350015804
+	label: 74683			f-score: 0.9037993438459097
+	label: 2501			f-score: 0.9241003931055337
+	label: 13556			f-score: 0.9245989304812835
+	label: 93036			f-score: 0.875223552070436
+	label: 209			f-score: 0.9940702087286527
+	label: 843			f-score: 0.9742186374765951
+	label: 2501			f-score: 0.09732620320855614
+
+Eps = 0.03 MinPts = 100 It costs 64237ms
+purity = 0.8101788484350761
+F-score: 
+	label: 2226			f-score: 0.9949272165857962
+	label: 861			f-score: 0.5249937515621095
+	label: 843			f-score: 0.993214588634436
+	label: 2333			f-score: 0.9938509640437728
+	label: 74683			f-score: 0.9037993438459097
+	label: 2501			f-score: 0.9611678832116788
+	label: 13556			f-score: 0.9917272499373277
+	label: 93036			f-score: 0.9377679615434585
+	label: 209			f-score: 0.9981100874084573
+	label: 93036			f-score: 0.1122142692218887
+	label: 74683			f-score: 0.08998709201548957
+	label: 74683			f-score: 0.08327165062916357
+	label: 74683			f-score: 0.07864960118716378
+	label: 93036			f-score: 0.10389610389610389
+
+Eps = 0.04 MinPts = 100 It costs 67153ms
+purity = 0.8181631535724062
+F-score: 
+	label: 2226			f-score: 0.9960343688037012
+	label: 861			f-score: 0.5250671161890492
+	label: 843			f-score: 0.9977483816493105
+	label: 2333			f-score: 0.9957349422656819
+	label: 74683			f-score: 0.9291843275095627
+	label: 2501			f-score: 0.9628334062090075
+	label: 13556			f-score: 0.9982565379825654
+	label: 93036			f-score: 0.9384575434951961
+	label: 209			f-score: 0.9995281906109932
+	label: 93036			f-score: 0.10609219365299977
+	label: 93036			f-score: 0.11308562197092083
+	label: 74683			f-score: 0.08998709201548957
+	label: 74683			f-score: 0.08327165062916357
+	label: 74683			f-score: 0.07900593471810088
+
+Eps = 0.05 MinPts = 100 It costs 70225ms
+purity = 0.8232274842595128
+F-score: 
+	label: 2226			f-score: 0.9983514671941972
+	label: 861			f-score: 0.5250015606467321
+	label: 843			f-score: 0.9988754568456565
+	label: 2333			f-score: 0.9977159468438538
+	label: 74683			f-score: 0.9758750247182124
+	label: 2501			f-score: 0.9871904355251921
+	label: 13556			f-score: 0.999253545658124
+	label: 93036			f-score: 1.0
+	label: 209			f-score: 0.9997641509433962
+	label: 74683			f-score: 0.08998709201548957
+
+Eps = 0.060000000000000005 MinPts = 100 It costs 70181ms
+purity = 0.823980290172461
+F-score: 
+	label: 2226			f-score: 0.999780509218613
+	label: 861			f-score: 0.5250015606467321
+	label: 843			f-score: 0.9991568296795953
+	label: 2333			f-score: 0.9986515921584899
+	label: 74683			f-score: 1.0
+	label: 2501			f-score: 0.9884861407249468
+	label: 13556			f-score: 0.999253545658124
+	label: 93036			f-score: 1.0
+	label: 209			f-score: 0.9997641509433962
+
+Eps = 0.07 MinPts = 100 It costs 73539ms
+purity = 0.8242312254767771
+F-score: 
+	label: 2226			f-score: 0.9998902666520355
+	label: 861			f-score: 0.5250015606467321
+	label: 209			f-score: 0.9998820893762528
+	label: 843			f-score: 1.0
+	label: 2333			f-score: 0.9986515921584899
+	label: 74683			f-score: 1.0
+	label: 2501			f-score: 0.9884861407249468
+	label: 13556			f-score: 1.0
+	label: 93036			f-score: 1.0
+
+Eps = 0.08 MinPts = 100 It costs 73762ms
+purity = 0.824345286978739
+F-score: 
+	label: 2226			f-score: 1.0
+	label: 843			f-score: 1.0
+	label: 861			f-score: 0.5250015606467321
+	label: 209			f-score: 0.9998820893762528
+	label: 2333			f-score: 0.9990668740279938
+	label: 74683			f-score: 1.0
+	label: 2501			f-score: 0.9884861407249468
+	label: 13556			f-score: 1.0
+	label: 93036			f-score: 1.0
+
+Eps = 0.09 MinPts = 100 It costs 73113ms
+purity = 0.8254630896979651
+F-score: 
+	label: 2226			f-score: 1.0
+	label: 843			f-score: 1.0
+	label: 861			f-score: 0.5250015606467321
+	label: 209			f-score: 0.9998820893762528
+	label: 2333			f-score: 1.0
+	label: 74683			f-score: 1.0
+	label: 2501			f-score: 0.9942049469964663
+	label: 13556			f-score: 1.0
+	label: 93036			f-score: 1.0
+
+Eps = 0.09999999999999999 MinPts = 100 It costs 78207ms
+purity = 0.8254859019983575
+F-score: 
+	label: 2226			f-score: 1.0
+	label: 843			f-score: 1.0
+	label: 861			f-score: 0.5250015606467321
+	label: 209			f-score: 1.0
+	label: 2333			f-score: 1.0
+	label: 74683			f-score: 1.0
+	label: 2501			f-score: 0.9942049469964663
+	label: 13556			f-score: 1.0
+	label: 93036			f-score: 1.0
+
+
+
+Eps = 0.1 MinPts = 100 It costs 62401ms
+purity = 0.8254859019983575
+F-score: 
+	label: 2226			f-score: 1.0
+	label: 843			f-score: 1.0
+	label: 861			f-score: 0.5250015606467321
+	label: 209			f-score: 1.0
+	label: 2333			f-score: 1.0
+	label: 74683			f-score: 1.0
+	label: 2501			f-score: 0.9942049469964663
+	label: 13556			f-score: 1.0
+	label: 93036			f-score: 1.0
+
+Eps = 0.2 MinPts = 100 It costs 79440ms
+purity = 0.8264212063144447
+F-score: 
+	label: 2226			f-score: 1.0
+	label: 843			f-score: 1.0
+	label: 861			f-score: 0.5250015606467321
+	label: 209			f-score: 1.0
+	label: 2333			f-score: 1.0
+	label: 74683			f-score: 1.0
+	label: 2501			f-score: 1.0
+	label: 13556			f-score: 1.0
+	label: 93036			f-score: 1.0
+
+Eps = 0.30000000000000004 MinPts = 100 It costs 81555ms
+purity = 0.8264212063144447
+F-score: 
+	label: 2226			f-score: 1.0
+	label: 843			f-score: 1.0
+	label: 861			f-score: 0.5250015606467321
+	label: 209			f-score: 1.0
+	label: 2333			f-score: 1.0
+	label: 74683			f-score: 1.0
+	label: 2501			f-score: 1.0
+	label: 13556			f-score: 1.0
+	label: 93036			f-score: 1.0
+
+Eps = 0.4 MinPts = 100 It costs 80439ms
+purity = 0.8264212063144447
+F-score: 
+	label: 2226			f-score: 1.0
+	label: 843			f-score: 1.0
+	label: 861			f-score: 0.5250015606467321
+	label: 209			f-score: 1.0
+	label: 2333			f-score: 1.0
+	label: 74683			f-score: 1.0
+	label: 2501			f-score: 1.0
+	label: 13556			f-score: 1.0
+	label: 93036			f-score: 1.0
+
+
+Eps = 0.5 MinPts = 100 It costs 73326ms
+purity = 0.8264212063144447
+F-score: 
+	label: 2226			f-score: 1.0
+	label: 843			f-score: 1.0
+	label: 861			f-score: 0.5250015606467321
+	label: 209			f-score: 1.0
+	label: 2333			f-score: 1.0
+	label: 74683			f-score: 1.0
+	label: 2501			f-score: 1.0
+	label: 13556			f-score: 1.0
+	label: 93036			f-score: 1.0
+
+Eps = 0.6 MinPts = 100 It costs 83933ms
+purity = 0.8264212063144447
+F-score: 
+	label: 2226			f-score: 1.0
+	label: 843			f-score: 1.0
+	label: 861			f-score: 0.5250015606467321
+	label: 209			f-score: 1.0
+	label: 2333			f-score: 1.0
+	label: 74683			f-score: 1.0
+	label: 2501			f-score: 1.0
+	label: 13556			f-score: 1.0
+	label: 93036			f-score: 1.0
+
+Eps = 0.7 MinPts = 100 It costs 82107ms
+purity = 0.8264212063144447
+F-score: 
+	label: 2226			f-score: 1.0
+	label: 843			f-score: 1.0
+	label: 861			f-score: 0.5250015606467321
+	label: 209			f-score: 1.0
+	label: 2333			f-score: 1.0
+	label: 74683			f-score: 1.0
+	label: 2501			f-score: 1.0
+	label: 13556			f-score: 1.0
+	label: 93036			f-score: 1.0
+
+Eps = 0.7999999999999999 MinPts = 100 It costs 85592ms
+purity = 0.7805456702253856
+F-score: 
+	label: 2226			f-score: 1.0
+	label: 843			f-score: 1.0
+	label: 861			f-score: 0.466444814198558
+	label: 209			f-score: 1.0
+	label: 2333			f-score: 1.0
+	label: 74683			f-score: 1.0
+	label: 2501			f-score: 1.0
+	label: 93036			f-score: 1.0
+
+Eps = 0.8999999999999999 MinPts = 100 It costs 78095ms
+purity = 0.7805456702253856
+F-score: 
+	label: 2226			f-score: 1.0
+	label: 843			f-score: 1.0
+	label: 861			f-score: 0.466444814198558
+	label: 209			f-score: 1.0
+	label: 2333			f-score: 1.0
+	label: 74683			f-score: 1.0
+	label: 2501			f-score: 1.0
+	label: 93036			f-score: 1.0
+
+Eps = 0.9999999999999999 MinPts = 100 It costs 90664ms
+purity = 0.7805456702253856
+F-score: 
+	label: 2226			f-score: 1.0
+	label: 843			f-score: 1.0
+	label: 861			f-score: 0.466444814198558
+	label: 209			f-score: 1.0
+	label: 2333			f-score: 1.0
+	label: 74683			f-score: 1.0
+	label: 2501			f-score: 1.0
+	label: 93036			f-score: 1.0
+
+Eps = 1.0999999999999999 MinPts = 100 It costs 90336ms
+purity = 0.7805456702253856
+F-score: 
+	label: 2226			f-score: 1.0
+	label: 843			f-score: 1.0
+	label: 861			f-score: 0.466444814198558
+	label: 209			f-score: 1.0
+	label: 2333			f-score: 1.0
+	label: 74683			f-score: 1.0
+	label: 2501			f-score: 1.0
+	label: 93036			f-score: 1.0
+
+Eps = 1.2 MinPts = 100 It costs 90186ms
+purity = 0.7805456702253856
+F-score: 
+	label: 2226			f-score: 1.0
+	label: 843			f-score: 1.0
+	label: 861			f-score: 0.466444814198558
+	label: 209			f-score: 1.0
+	label: 2333			f-score: 1.0
+	label: 74683			f-score: 1.0
+	label: 2501			f-score: 1.0
+	label: 93036			f-score: 1.0
+
+Eps = 1.3 MinPts = 100 It costs 90469ms
+purity = 0.7805456702253856
+F-score: 
+	label: 2226			f-score: 1.0
+	label: 843			f-score: 1.0
+	label: 861			f-score: 0.466444814198558
+	label: 209			f-score: 1.0
+	label: 2333			f-score: 1.0
+	label: 74683			f-score: 1.0
+	label: 2501			f-score: 1.0
+	label: 93036			f-score: 1.0
+
+Eps = 1.4000000000000001 MinPts = 100 It costs 88293ms
+purity = 0.7805456702253856
+F-score: 
+	label: 2226			f-score: 1.0
+	label: 843			f-score: 1.0
+	label: 861			f-score: 0.466444814198558
+	label: 209			f-score: 1.0
+	label: 2333			f-score: 1.0
+	label: 74683			f-score: 1.0
+	label: 2501			f-score: 1.0
+	label: 93036			f-score: 1.0
+
