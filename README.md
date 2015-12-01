@@ -5,7 +5,7 @@ classification algorithm use kmeans and dbscan
 ##
 ##	1.在运行程序之前，请确保机器安装了Java jdk1.7获个高版本，并且正确设置了Java的环境变量
 ##
-##	2.在bin目录下，有若干*.sh/*.bat文件，对于Linux/Mac OS X用户，请使用*.sh文件，对于Windows用户，请使用*.bat文件，以下说明按照Linux/Mac OS X
+##	2.在bin目录下，有若干*.sh文件，适用于对于Linux/Mac OS X用户，对于windows用户，暂不提供脚本支持
 ##
 ##	3.Kmeans算法
 ##		3.1查看示例
